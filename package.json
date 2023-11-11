@@ -1,0 +1,39 @@
+{
+  "name": "roxotema",
+  "displayName": "RoxoTema",
+  "description": "Tema dark com variaões da cor roxa ",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "author": {
+    "name": "Kelson Carvalho",
+    "email": "fabriciosouuuza@gmail.com"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/NoslekCode/draquinho.git"
+},
+"keywords": [
+  "roxo",
+  "Purple",
+  "dark",
+  "theme",
+  "vscode",
+  "escuro"
+],
+"publisher": "kelsoncarvalho",
+  "contributes": {
+    "themes": [
+      {
+        "label": "ThemePurple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ThemePurple-color-theme.json"
+      }
+    ]
+  }
+}
