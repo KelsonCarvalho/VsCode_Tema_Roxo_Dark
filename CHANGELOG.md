@@ -6,4 +6,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+- Versão 1.0.2 =>
+    Alterando Link Do Repositorio Do GitHub

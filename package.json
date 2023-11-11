@@ -2,7 +2,7 @@
   "name": "roxotema",
   "displayName": "RoxoTema",
   "description": "Tema dark com variaões da cor roxa ",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -16,7 +16,7 @@
   "icon": "icon.png",
   "repository": {
   "type": "git",
-  "url": "https://github.com/NoslekCode/draquinho.git"
+  "url": "https://github.com/NoslekCode/VsCode_Tema_Roxo_Dark.git"
 },
 "keywords": [
   "roxo",
