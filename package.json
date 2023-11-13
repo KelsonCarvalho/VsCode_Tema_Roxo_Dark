@@ -1,8 +1,8 @@
 {
   "name": "roxotema",
   "displayName": "RoxoTema",
-  "description": "Tema dark com variaões da cor roxa ",
-  "version": "1.0.2",
+  "description": "Adentre o reino da produtividade com o tema roxo do Visual Studio Code. Este tema exala uma aura de elegância e foco, mergulhando o ambiente de desenvolvimento em tons profundos de roxo que inspiram criatividade e concentração.",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.84.0"
   },

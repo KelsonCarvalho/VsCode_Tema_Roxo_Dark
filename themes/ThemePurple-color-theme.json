@@ -1054,7 +1054,7 @@
 		  "name": "Attribute IDs",
 		  "scope": "entity.other.attribute-name.id",
 		  "settings": {
-			"fontStyle": "normal",
+			"fontStyle": "italic bold",
 			"foreground": "#61afef"
 		  }
 		},
@@ -1062,7 +1062,7 @@
 		  "name": "Attribute class",
 		  "scope": "entity.other.attribute-name.class.css",
 		  "settings": {
-			"fontStyle": "normal",
+			"fontStyle": "italic bold",
 			"foreground": "#d19a66"
 		  }
 		},
