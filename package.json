@@ -2,9 +2,9 @@
   "name": "roxotema",
   "displayName": "RoxoTema",
   "description": "Adentre o reino da produtividade com o tema roxo do Visual Studio Code. Este tema exala uma aura de elegância e foco, mergulhando o ambiente de desenvolvimento em tons profundos de roxo que inspiram criatividade e concentração.",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "engines": {
-    "vscode": "^1.84.0"
+    "vscode": "^1.103.0"
   },
   "author": {
     "name": "Kelson Carvalho",
